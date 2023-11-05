@@ -9,9 +9,27 @@ The input comes as a single number parameter. The bounders are:
 • In all other cases print – "out of bounds";
 The output should be printed to the console.
 
-Output:
 
-20 adult
-1 baby
-100 elder
--1 out of bounds
+Sample input:
+20
+
+Sample output:
+adult
+
+Sample input:
+1
+
+Sample output:
+baby
+
+Sample input:
+100
+
+Sample output:
+elder
+
+Sample input:
+-1 
+
+Sample output:
+out of bounds
