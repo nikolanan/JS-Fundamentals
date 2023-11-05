@@ -9,3 +9,26 @@ decimal point.
          Students  8.45       9.80         10.46
          Business  10.90      15.60        16
          Regular   15         20           22.50
+
+There are also discounts based on some conditions:
+
+• Students – if the group is bigger than or equal to 30 people you should reduce the total price by 15%
+
+• Business – if the group is bigger than or equal to 100 people 10 of them can stay for free
+
+• Regular – if the group is bigger than or equal to 10 and less than or equal to 20 reduce the total price by 5%
+
+
+Sample input:
+30,"Students","Sunday"
+
+Sample output:
+Total price: 266.73
+
+Sample input:
+40,"Regular","Saturday"
+
+Sample output:
+Total price: 800.00
+
+
