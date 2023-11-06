@@ -28,13 +28,6 @@ Sample output: 5
 
 Sample input:
 
-    [1, 7, 7, 1, 2, 3],
-    [7, 1]
-
-Sample output: 6
-
-Sample input:
-
     [1, 1, 2, 1, 1, 1,
     2, 1, 1, 1],
     [2, 1]
