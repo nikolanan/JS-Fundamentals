@@ -12,9 +12,9 @@ Sample input:
 
 Sample output:
 
-beta
-alpha
-gamma
+    beta
+    alpha
+    gamma
 
 Sample input:
 
@@ -26,10 +26,10 @@ Sample input:
 
 Sample output:
 
-Jack
-Isacc
-George
-Theodor
-Harrison
+    Jack
+    Isacc
+    George
+    Theodor
+    Harrison
 
 
