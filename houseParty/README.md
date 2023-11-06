@@ -24,8 +24,8 @@ Sample input:
 
 Sample output:
 
-John is not in the list!
-Allie
+    John is not in the list!
+    Allie
 
 Sample input:
 
@@ -37,9 +37,9 @@ Sample input:
 
 Sample output:
 
-Tom is already in the list!
-Tom
-Annie
-Garry
-Jerry
+    Tom is already in the list!
+    Tom
+    Annie
+    Garry
+    Jerry
 
