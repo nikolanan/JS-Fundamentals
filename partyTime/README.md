@@ -1,4 +1,4 @@
-There is a party at SoftUni. Many guests are invited and they are two types: VIP and regular. When guests come to
+There is a party. Many guests are invited and they are two types: VIP and regular. When guests come to
 the party check if he/she contains in any of the two reservation lists.
 
 The input will come as an array of strings. You will be given the list with the guests before you receive a command
